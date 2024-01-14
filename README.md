@@ -7,6 +7,6 @@
 <p></p>
 <figure>
   <img src="Restaurant.jpg" height="400">
-  <figcaption style="font-weight:600;">Restaurant Website</figcaption>
+  <figcaption><span style="font-weight:600;">Restaurant Website</span></figcaption>
 </figure>
 <figure></figure>
